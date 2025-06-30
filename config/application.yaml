@@ -59,8 +59,8 @@ application:
         path: https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/NoAppDownload.txt
         type: easylist
 
-      - name: xndeye web-ad-rule
-        path: https://raw.githubusercontent.com/xndeye/web-ad-rule/master/easylist.txt
+      - name: 8680 GOODBYEADS
+        path: https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/dns.txt
         type: easylist
 
       - name: xinggsf movie

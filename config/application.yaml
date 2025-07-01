@@ -31,9 +31,9 @@ application:
         path: https://filters.adtidy.org/extension/ublock/filters/11_optimized.txt
         type: easylist
 
-      - name: AdGuard 防跟踪保护过滤器
-        path: https://filters.adtidy.org/extension/ublock/filters/3_optimized.txt
-        type: easylist
+      #- name: AdGuard 防跟踪保护过滤器
+      #  path: https://filters.adtidy.org/extension/ublock/filters/3_optimized.txt
+      #  type: easylist
 
       - name: AdGuard URL跟踪过滤器
         path: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_17_TrackParam/filter.txt

@@ -36,9 +36,11 @@ application:
       #  type: easylist
       - name: doh-vpn-proxy-过滤
         path: https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/doh-vpn-proxy-bypass.txt
-
+        type: easylist
+        
       - name: 手机去广告
         path: https://raw.githubusercontent.com/damengzhu/banad/main/dnslist.txt
+        type: easylist
         
       - name: AdGuard URL跟踪过滤器
         path: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_17_TrackParam/filter.txt
@@ -70,7 +72,8 @@ application:
 
       - name: xinggsf movie
         path: https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt
-
+        type: easylist
+        
       - name: damengzhu jiekouAD
         path: https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt
 
